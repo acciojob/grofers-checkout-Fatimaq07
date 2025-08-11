@@ -1,12 +1,15 @@
 body {
     font-family: Arial, sans-serif;
-    padding: 20px;
+    margin: 20px;
 }
 table {
-    border-collapse: collapse;
     width: 300px;
+    border-collapse: collapse;
 }
 th, td {
     padding: 8px;
     text-align: left;
+}
+th {
+    background-color: #f2f2f2;
 }
