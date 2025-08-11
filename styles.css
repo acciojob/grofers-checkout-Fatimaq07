@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 300px;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
